@@ -17,7 +17,7 @@ Change accordingly...
 # Installation
 * Rename your original *start.bat* to something else or just delete it.
 * Create a new *start.bat* with the code provided.
-* **Start server using new *start.bat* provided.
+* **Start server using new *start.bat* provided.**
 
 Enjoy.
 
